@@ -1,0 +1,2 @@
+weather_description,temp_celsius,temp_feels_like_celsius,temp_min_celsius,temp_max_celsius,atmospheric_pressure,humidity,visibility,wind_speed,wind_direction,cloudiness,time_of_record,sunrise,sunset,country,city
+broken clouds,25.160000000000025,25.870000000000005,25.160000000000025,25.160000000000025,1010,82,10000,2.62,53,61,2023-10-23 20:10:01,2023-10-23 05:38:54,2023-10-23 17:34:45,GY,Georgetown
