@@ -9,7 +9,8 @@ Amazon EC2, Amazon S3, Python, Apache Airflow
 
 ## Architecture Diagram
 
-[architecture_diag.pdf](https://github.com/user-attachments/files/17087933/architecture_diag.pdf)
+![airflow_DAG](https://github.com/user-attachments/assets/8b221a03-9442-4dcf-bb4b-42d42fbd3a15)
+
 
 
 
