@@ -22,7 +22,7 @@ Amazon EC2, Amazon S3, Python, Apache Airflow
 1.	Create an Amazon S3 bucket - the S3 bucket is used to store the transformed dataset
 2.	Launch an Amazon EC2 instance - Select the instance that contain Ubuntu2. Select an instance Type that is T2.medium machine to ensure it has enough resources to run Airflow. This server will be used as the ETL server
 3.	Install Python, PIP and the required libraries (Pandas, Airflow, S3FS etc.) on the EC2 instance
-4.	Develop the following three (3) tasks in the Airflow Python script (**see script)
+4.	Develop the following three (3) tasks in the Airflow Python script (**see script folder)
     - Write a task to verify that connection can be established with the Open Weather API data source
     - Write a task to extract the data from the data source to the ETL server
     - Write a task to transform and load the data to an Amazon S3 bucket
