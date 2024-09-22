@@ -13,7 +13,7 @@ Amazon EC2, Amazon S3, Python, Apache Airflow
 ![architecture_diag2](https://github.com/user-attachments/assets/2f173ffe-8b5e-4da4-97e6-07161a6a0eab)
 <br></br>
 
-## Tools and Resaources
+## Tools and Resources
 Amazon EC2, Amazon S3, Python, Apache Airflow
 <br></br>
 
