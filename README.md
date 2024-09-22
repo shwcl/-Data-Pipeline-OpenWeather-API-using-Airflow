@@ -30,7 +30,7 @@ Amazon EC2, Amazon S3, Python, Apache Airflow
 5. Arrange the tasks such that they execute sequentially from task 1 to task 3.
 6. Run the Airflow job to execute the ETL process and check if it completes successfully (**see Airflow DAG)
 7. Identify and troubleshoot any issues with any of the tasks and rerun the job until all the tasks are executed successfully.
-8. The final output should be a CSV file in the S3 bucket containing the data extracted from the source.
+8. The final output should be a CSV file in the S3 bucket containing the data
 <br></br>
 
 
