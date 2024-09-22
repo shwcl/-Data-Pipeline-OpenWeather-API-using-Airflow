@@ -40,5 +40,5 @@ Amazon EC2, Amazon S3, Python, Apache Airflow
 
 
 ## Output file
-![output_file](https://github.com/user-attachments/assets/96c9ccbc-b2f7-4481-91fc-05f0f4cd08b8)
+![output_file](https://github.com/user-attachments/assets/8362fd98-e9ed-4bf2-a5d4-bb8cd86bf372)
 
