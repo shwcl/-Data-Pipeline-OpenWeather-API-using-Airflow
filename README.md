@@ -3,8 +3,13 @@
 To build a data pipeline that extract the current weather data for Georgetown, Guyana from Open Weather map API, and load it to Amazon S3 using Apache Airflow installed on an Amazon EC2 machine.
 <br></br>
 
+## Tools
+Amazon EC2, Amazon S3, Python, Apache Airflow
+
+
 ## Architecture Diagram
 
+[architecture_diag.pdf](https://github.com/user-attachments/files/17087933/architecture_diag.pdf)
 
 
 
