@@ -38,3 +38,7 @@ Amazon EC2, Amazon S3, Python, Apache Airflow
 ![airflow_DAG](https://github.com/user-attachments/assets/cb8a499a-d1da-4179-bf11-695ed81539aa)
 <br></br>
 
+
+## Output file
+![output_file](https://github.com/user-attachments/assets/96c9ccbc-b2f7-4481-91fc-05f0f4cd08b8)
+
