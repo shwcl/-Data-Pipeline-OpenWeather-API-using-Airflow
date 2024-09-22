@@ -3,14 +3,14 @@
 To build a data pipeline that extract the current weather data for Georgetown, Guyana from Open Weather map API, and load it to Amazon S3 using Apache Airflow installed on an Amazon EC2 machine.
 <br></br>
 
+
+
 ## Tools and Resaources
-•	Amazon EC2
-•	Amazon S3
-•	Python
-•	Python libraries – Pandas, Airflow, S3FS, AWSCLI
+Amazon EC2, Amazon S3, Python, Apache Airflow
+
 <br></br>
 
-## Devleopment Process
+## Development Process
 1.	Create an Amazon S3 bucket - the S3 bucket is used to store the transformed dataset
 2.	Launch an Amazon EC2 instance - Select the instance that contain Ubuntu2. Select an instance Type that is T2.medium machine to ensure it has enough resources to run Airflow. This server will be used as the ETL server
 3.	Install Python, PIP and the required libraries (Pandas, Airflow, S3FS etc.) on the EC2 instance
